@@ -1,1 +1,1 @@
-# covid_analysis
+# chi_covid_analysis
